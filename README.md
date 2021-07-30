@@ -4,7 +4,7 @@ Steps to run this project
 
 1) Clone this project
 2) Open Eclipse/Spring tool suite/ Intellige 
-3) Import Maven project and select this project
+3) Import project as Maven project and select this project
 4) Run the Application using Run as Spring boot application
 5) This project currently running at localhost:8080. Now open the Postman
 6) Select Post , and add URL "localhost:8080/metric/{Key}" , lets say key is "Indigo" . 
