@@ -2,13 +2,13 @@ package com.indigo.metricReportingService.model;
 
 public class InputRequest {
 	
-	public int value;
+	public Integer value;
 
-	public int getValue() {
+	public Integer getValue() {
 		return value;
 	}
 
-	public void setValue(int value) {
+	public void setValue(Integer value) {
 		this.value = value;
 	}
 }
