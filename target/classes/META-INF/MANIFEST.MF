@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bharathjanumpally
+Build-Jdk: 9.0.1
+Implementation-Title: metricReportingService
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.indigo
+Implementation-URL: https://spring.io/projects/spring-boot/metricRepor
+ tingService
+Created-By: Maven Integration for Eclipse
+
